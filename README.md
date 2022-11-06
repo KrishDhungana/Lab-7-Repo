@@ -1,2 +1,2 @@
-# Lab-7-Repo
-This is Krish Dhungana Lab 7 Repository
+# Lab-7
+This is Krish Dhungana's Lab 7 Repository
